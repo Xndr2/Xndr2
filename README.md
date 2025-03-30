@@ -6,8 +6,8 @@ Student Software Development
 
 *   🌍  I'm based in Belgium
 *   🖥️  See my portfolio at [xndr.site](http://xndr.site)
-*   ✉️  You can contact me at [moermanxander@gmail.com](mailto:moermanxander@gmail.com)
-*   🚀  I'm currently working on [Abandoned](http://discord.gg/CAhVGsAW7H)
+*   ✉️  You can contact me at [business@xndr.site](business@xndr.site)
+*   🚀  I'm currently working on [Abandoned](https://www.headshotinteractive.com/abandoned)
 *   🧠  I'm learning Unreal Engine
 *   ⚡  3 am coding ;)
 
